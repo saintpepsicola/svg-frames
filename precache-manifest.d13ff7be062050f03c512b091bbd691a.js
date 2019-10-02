@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d550ae23418da1fdab7c223b63aa3cd9",
+    "revision": "41093441d62eddb0e57c1711507fcf75",
     "url": "/svg-frames/index.html"
   },
   {
